@@ -1,3 +1,7 @@
+# Bomberman
+
+This was the semestral project for the Programming and Algorithmics 2 course.
+
 ## Overview
 
 This project uses `STL` and `ncurses` to create the game “Bomberman” where the objective is to obtain the highest score on a map before the computer kills you. This can be played in both Singleplayer and Co-op gamemodes.
